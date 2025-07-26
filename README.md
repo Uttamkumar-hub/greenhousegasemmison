@@ -31,6 +31,20 @@
 - Pandas
 - Seaborn
 - Matplotlib
+## week2
+📝 Tasks Performed
+Data Cleaning: Removed missing values and irrelevant columns from the supply chain emissions dataset.
+
+Feature Selection: Chose relevant features to predict greenhouse gas emissions.
+
+Model Training: Trained three regression models – Linear Regression, Decision Tree, and Random Forest.
+
+Model Evaluation: Assessed models using MAE, RMSE, and R² metrics.
+
+Hyperparameter Tuning: Applied GridSearchCV to optimize the Random Forest model.
+
+Result Comparison: Compared model performances to select the best one for emission prediction.
+
 
 
 
