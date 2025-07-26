@@ -33,6 +33,7 @@
 - Matplotlib
 ## week2
 📝 Tasks Performed
+
 Data Cleaning: Removed missing values and irrelevant columns from the supply chain emissions dataset.
 
 Feature Selection: Chose relevant features to predict greenhouse gas emissions.
