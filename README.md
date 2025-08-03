@@ -46,6 +46,19 @@ Hyperparameter Tuning: Applied GridSearchCV to optimize the Random Forest model.
 
 Result Comparison: Compared model performances to select the best one for emission prediction.
 
+Week 3: 
+Optimization, Insights, and Future Prediction
+✅ Hyperparameter Tuning:
+Performed GridSearchCV on Random Forest for optimal n_estimators, max_depth, and min_samples_split.
+✅ Residual Analysis:
+Visualized residual distribution for the best model to assess bias and variance.
+✅ Feature Importance:
+Identified key drivers of emissions using feature_importances_ of the tuned Random Forest model.
+✅ Model Comparison:
+Aggregated and visualized performance of all models side-by-side using grouped bar plots.
+✅ Future Emission Prediction:
+Projected emissions for the next year using the most recent data.
+Merged predictions with industry names for better interpretability.
 
 
 
